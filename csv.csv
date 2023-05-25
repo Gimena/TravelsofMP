@@ -1,0 +1,10 @@
+UUID,FILE,QUOTE_TRANSCRIPTION,ANCHOR,TYPE,URI,VOCAB_LABEL,VOCAB_TEMPORAL_BOUNDS,LAT,LNG,PLACE_TYPE,VERIFICATION_STATUS,TAGS,COMMENTS,GROUP_ID,GROUP_ORDER
+880004b1-a515-45b5-bb14-30cdc3062d4a,Travels of Marco Polo.txt,Constantinople,char-offset:290,PLACE,http://pleiades.stoa.org/places/520985,"Constantinopolis|Byzantium|Byzantium/Byzantion/Constantinopolis, Istanbul",-0.357142857,41.012379,28.975926,"settlement,urban",VERIFIED,,,,
+e5d1c6e4-270d-4380-bfa1-cc9beb361eaa,Travels of Marco Polo.txt,Venice,char-offset:352,PLACE,http://sws.geonames.org/3164603,Venice,,45.43713,12.33265,"settlement,urban",VERIFIED,,,,
+4818afe9-c2fc-444d-9705-1737b90c62c3,Travels of Marco Polo.txt,Euxine,char-offset:827,PLACE,http://pleiades.stoa.org/places/638838,"Euxine|Euxine, Kepez",11,36.837326,28.715749,"settlement,port",VERIFIED,,,,
+d140f5ef-3987-4538-9363-e48aa76b6ac6,Travels of Marco Polo.txt,Soldaia,char-offset:998,PLACE,http://sws.geonames.org/692315,Sudak,,44.84924,34.97471,"settlement,urban",VERIFIED,,,,
+218732d9-ee1e-498c-9f39-5eb946323e8d,Travels of Marco Polo.txt,Assara,char-offset:1183,PLACE,http://dare.ht.lu.se/places/39197,"Assara, Nikolaevo",0300/0640,42.638151,25.794914,"settlement,urban",VERIFIED,,,,
+edd78e09-d4b7-496f-80cf-0c16ee48109d,Travels of Marco Polo.txt,Oukaka,char-offset:2633,PLACE,http://sws.geonames.org/740264,Samsun,,41.28667,36.33,"settlement,urban",VERIFIED,,,,
+a9da4eb5-3ef2-4672-b0c7-23847eed0817,Travels of Marco Polo.txt,Java,char-offset:6683,PLACE,http://sws.geonames.org/1642672,West Java,,-6.923847259,107.6101388,"settlement,island",VERIFIED,,,,
+5191c17b-3308-4b1e-88b8-41b6881e66af,Travels of Marco Polo.txt,Constantinople,char-offset:7101,PLACE,http://pleiades.stoa.org/places/520985,"Constantinopolis|Byzantium|Byzantium/Byzantion/Constantinopolis, Istanbul",-0.357142857,41.012379,28.975926,"settlement,urban",VERIFIED,,,,
+7b7ce130-8146-4694-a527-47283f48dc49,Travels of Marco Polo.txt,Negropont,char-offset:7125,PLACE,http://sws.geonames.org/2524392,Licodia Eubea,,37.15674,14.70555,"settlement,island",VERIFIED,,,,
